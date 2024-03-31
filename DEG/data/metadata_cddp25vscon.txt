@@ -1,0 +1,6 @@
+CON_1	control
+CON_2	control
+CON_3	control
+CDDP_1	CDDP
+CDDP_2	CDDP
+CDDP_3	CDDP
